@@ -53,10 +53,7 @@ img.two {
     padding-top: 1%;
 }
 p {
-    font-size: 60px;
-    text-align: left;
-    height: 100%;
-    width: 100;
+    font-size: 16px;
     padding-left: 15%;
     padding-right: 15%;
     line-height: 1.5
@@ -66,7 +63,6 @@ p {
     width: 100%;
     font-size: 30px;
     text-align: center;
-}
 }
 .getinvolved {
     width: 400px;
